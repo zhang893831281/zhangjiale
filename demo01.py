@@ -34,13 +34,13 @@ print(name)
 # c = type(2.33)      #type() 判断数据类型
 # print(c)
 
-# print(type("叶晓倩"))
-# print(type(520))            ctry+/  注释的快捷键
-# print(type(52.1))
-# print(type(False))
-# print(type(()))
-# print(type([]))
-# print(type({}))
+print(type("叶晓倩"))
+print(type(520))            ctry+/  注释的快捷键
+print(type(52.1))
+print(type(False))
+print(type(()))
+print(type([]))
+print(type({}))
 
 
 a = 'asdasdqwdsaascasasacs'
