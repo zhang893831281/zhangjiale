@@ -31,8 +31,8 @@ print(name)
 # b =input("请输入：")
 # print("input输入的值:",int(a)+int(b))
 
-# c = type(2.33)      #type() 判断数据类型
-# print(c)
+c = type(2.33)      #type() 判断数据类型
+print(c)
 
 print(type("叶晓倩"))
 print(type(520))            ctry+/  注释的快捷键
